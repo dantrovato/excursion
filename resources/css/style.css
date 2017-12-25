@@ -16,3 +16,13 @@ a {
   text-align: center;
   text-decoration: underline;
 }
+
+p {
+  color: grey;
+  font-size: 21px;
+}
+
+.copyright {
+  color: grey;
+  text-align: right;
+}
